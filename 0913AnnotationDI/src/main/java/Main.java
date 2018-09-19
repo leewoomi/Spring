@@ -1,8 +1,8 @@
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 import com.lee.controller.SampleController;
-import com.lee.dao.SampleDao;
-import com.lee.service.SampleService;
+
+
 
 public class Main {
 
