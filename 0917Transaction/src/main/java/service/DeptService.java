@@ -17,7 +17,7 @@ public class DeptService {
 	@Transactional
 	public void insertdept() {
 		Dept dept = new Dept();
-		dept.setDeptno(44);
+		dept.setDeptno(54);
 		dept.setDname("기획");
 		dept.setLoc("대구");
 		

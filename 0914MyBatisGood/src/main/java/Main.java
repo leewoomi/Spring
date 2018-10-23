@@ -15,7 +15,7 @@ public class Main {
 		System.out.println(dao);
 
 		Good g = new Good();
-		g.setCode(5);
+		g.setCode(7);
 		g.setName("수박");
 		g.setPrice(400);
 		g.setDescription("수박");
